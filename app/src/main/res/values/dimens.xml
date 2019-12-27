@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="categorypopupwidth">300dp</dimen>
+    <dimen name="categorypopupheight">200dp</dimen>
+    <dimen name="bottomnavheight">50dp</dimen>
+    <dimen name="moviesheight">50dp</dimen>
+</resources>

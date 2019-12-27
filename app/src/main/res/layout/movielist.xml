@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/itemlist"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="200dp">
+
+    <TextView
+        android:textColor="@color/colorblack"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:text="1."
+        android:gravity="center"
+        android:id="@+id/movie_list_sr"/>
+
+    <TextView
+        android:textColor="@color/colorblack"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Movie Name"
+        android:gravity="center"
+        android:id="@+id/movie_list_name"
+        android:layout_weight="1"/>
+    <ImageView
+
+        android:id="@+id/movie_list_image"
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        android:layout_weight="1"
+        />
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750087190939",
+    "firebase_url": "https://moviapp36.firebaseio.com",
+    "project_id": "moviapp36",
+    "storage_bucket": "moviapp36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750087190939:android:b7c99d0e9e6476c5cb893e",
+        "android_client_info": {
+          "package_name": "com.itonemm.movieappadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750087190939-kho7m5m0qjj8mv8khmknetmosj9cbjhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itonemm.movieappadminpanel",
+            "certificate_hash": "bc21fbdff00b72677bdece00b00c2e7be23ee5b4"
+          }
+        },
+        {
+          "client_id": "750087190939-ni6hf4j0uhtmi3apodsl71afm311e6d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5g9Xzq5XxTmAGk6I0Mnua_sT4xjXjoGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750087190939-ni6hf4j0uhtmi3apodsl71afm311e6d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
